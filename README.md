@@ -13,3 +13,7 @@ Example Storyboard presented at [LAST Conference 2016](http://lanyrd.com/2016/la
 * Storyboard_A1.pdf - A blank story board with sections to place A4 story board sheets. Suitable for laminating as a white board.
 * StoryboardSheets.xlsx - A4 sheets for Target and Current Condition in both vertical and horizontal layouts.
 * PDCA.xlsx - An A4 PDCA sheet with slightly reduced margins to provide more space for writing.
+
+###Copyright Information
+![CC-BY-NC](https://i.creativecommons.org/l/by-nc/4.0/88x31.png "Creative Commons Attribution-NonCommercial 4.0 International License")
+You are free to share and adapt these materials as long as you credit this source and the [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/), but the materials (and adapted materials) may not be reproduced for sale in any form.
