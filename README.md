@@ -3,7 +3,7 @@ Resources supporting the Improvement Kata pattern for continuous improvement
 
 ##What is the Improvement Kata
 The "Toyota Kata" published by Mike Rother describes a four stage pattern for continuous improvement supported by continuous coaching. 
-For more information see http://www-personal.umich.edu/~mrother/Homepage.html
+For more information see (http://www-personal.umich.edu/~mrother/Homepage.html)
 
 Example Storyboard presented at [LAST Conference 2016](http://lanyrd.com/2016/lastconf/) Poster Sessions
 
@@ -16,4 +16,6 @@ Example Storyboard presented at [LAST Conference 2016](http://lanyrd.com/2016/la
 
 ###Copyright Information
 ![CC-BY-NC](https://i.creativecommons.org/l/by-nc/4.0/88x31.png "Creative Commons Attribution-NonCommercial 4.0 International License")
+These materials were adapted from the original work by [Mike Rother](http://www-personal.umich.edu/~mrother/Homepage.html)
+
 You are free to share and adapt these materials as long as you credit this source and the [CC-BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/), but the materials (and adapted materials) may not be reproduced for sale in any form.
